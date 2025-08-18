@@ -8,7 +8,7 @@
 //[ ,Idx,]
 //[ , i, ]
 //[0, 0, 1,1,1,2,2,3,3,4]
-//Each round dection the nums[i] need to store in nums[Idx] or not
+//Each round detection the nums[i] need to store in nums[Idx] or not
 
 // @lc code=start
 int removeDuplicates(int* nums, int numsSize) {
